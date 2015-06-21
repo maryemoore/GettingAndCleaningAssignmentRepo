@@ -3,6 +3,7 @@
 ####Please refer to the features_info.txt file from that dataset for additional information
 
 Format of Codebook: Original name from Samsung dataset features.txt file = 	Descriptive name used in tidy data set created by the R code in this repo
+The mean of each of the following values is provided in the tidy data set.
 * tBodyAcc-mean()-X	=	Mean_Body_Acceleration_X
 * tBodyAcc-mean()-Y	=	Mean_Body_Acceleration_Y
 * tBodyAcc-mean()-Z	=	Mean_Body_Acceleration_Z
