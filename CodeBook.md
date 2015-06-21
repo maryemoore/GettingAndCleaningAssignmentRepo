@@ -2,7 +2,7 @@
 ###Provides new variable (column) labels used in the tidy dataset created from the Samsung dataset available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ####Please refer to the features_info.txt file from that dataset for additional information
 
-Original Name			Descriptive Name used in tidy data set
+Format of Codebook: Original name from Samsung dataset features.txt file = 	Descriptive name used in tidy data set created by the R code in this repo
 * tBodyAcc-mean()-X	=	Mean_Body_Acceleration_X
 * tBodyAcc-mean()-Y	=	Mean_Body_Acceleration_Y
 * tBodyAcc-mean()-Z	=	Mean_Body_Acceleration_Z
