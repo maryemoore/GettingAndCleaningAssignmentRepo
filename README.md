@@ -1,6 +1,7 @@
 #Getting and Cleaning Coursera Assignment
 
 The R code contained in this repo
+
 1. Downloads zipped files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 These files contain the data from an experiment performed on 30 people who were wearing a phone during 6 different activities.
 Multiple recordings were taken during those activities, which are listed more completely in the README file provided with that document.
